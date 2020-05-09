@@ -1,2 +1,2 @@
-# Git Tutorial
+# Awesome Git Tutorial
 This is a tutorial
